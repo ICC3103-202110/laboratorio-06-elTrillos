@@ -1,5 +1,5 @@
 initModel = {
-    LeftVal: 0, LeftUn:0, RightVal:0, RightUn:0
+    LeftVal: 0, LeftUn:"Celsius", RightVal:32, RightUn:"Farenheit"
 }
 
 module.exports = {
